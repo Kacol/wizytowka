@@ -1,0 +1,64 @@
+body
+{
+background-color: #303030;
+color:#ffffff;	
+
+}
+
+#contener
+{
+	
+	margin-left:auto;
+	margin-right:auto;
+	width:1000px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.poziome
+{
+	
+}
+
+.pionowe
+{
+	float:left;
+}
+
+.square
+{
+	
+}
+
+#logo
+{
+	margin-top:25px;
+	font-size:50px;
+	float:left;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align:justify;
+}
+
+#wyksztalcenie
+{
+	
+}
+
+#doswiadczenie
+{
+	
+}
+
+#umiejętności
+{
+	
+}
+
+#jezyki
+{
+	
+}
+
+#zainteresowania
+{
+	
+}
